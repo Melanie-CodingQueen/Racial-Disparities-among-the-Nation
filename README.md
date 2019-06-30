@@ -1,5 +1,5 @@
-# Racial-Disparities-among-the-Nation
-
+#  index.html
+  
 <!DOCTYPE html>
 <html>
 <head> Disparities in Medical, Crimial and other areas
@@ -11,3 +11,25 @@
 
 </body>
 </html>
+<html lang="en">
+<head>
+</head>
+<body>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  
+  <h1>Home.Page</h1>
+  
+<p>My home page </p>
+
+<meta name="SiteMap" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<h1>sitemap</h1>
+
+
+
+</body>
+</html> 
