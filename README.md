@@ -29,5 +29,7 @@
 
 <h1>sitemap</h1>
 
+<img src="screenshotsitemap.png" alt="Site Map">
+
 </body>
 </html> 
