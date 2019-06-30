@@ -6,6 +6,7 @@
 </head>
 <body>
 
+  
 <h1>About Us</h1>
 <p>My name is Epiphany and I have decided to create this webpage in-order to show the mistreatment of Minorities throughout the Nation.</p>
 
@@ -15,8 +16,6 @@
 <head>
 </head>
 <body>
-
-<div class="jumbotron text-center" style="margin-bottom:0">
   
   <h1>Home.Page</h1>
   
@@ -30,6 +29,3 @@
 <h1>sitemap</h1>
 
 
-
-</body>
-</html> 
