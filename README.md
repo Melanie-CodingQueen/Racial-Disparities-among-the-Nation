@@ -27,5 +27,16 @@
 <body>
 
 <h1>sitemap</h1>
-screenshotsitemap (3).png 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Site Map</h2>
+
+<p>The alt attribute should reflect the image content, so users who cannot see the image gets an understanding of what the image contains:</p>
+
+<img src="file:///C:/Users/wanessa/OneDrive/Pictures/screenshotsitemap%20(3).png" alt="Site Map">
+
+</body>
+</html>
 
